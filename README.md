@@ -12,11 +12,11 @@
   - Unsupervised
   
   
-# Classification 
+### Classification 
 
-# Clustering
+### Clustering
 
-# Regression
+### Regression
 
 
 ## Neural networks
